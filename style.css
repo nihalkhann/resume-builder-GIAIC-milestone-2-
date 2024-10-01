@@ -30,12 +30,12 @@ fieldset{
 legend{
     font-weight: bold;
     text-align: center;
-    color: #0000003a     ;
+    color: #06f3f73a     ;
 }
 label{
     display: block;
     margin-top:10px  ;
-    color: #4e0304;
+    color: #01befd;
 }
 input,textarea{
    width:calc(100% - 16px); ; 
@@ -50,11 +50,12 @@ input,textarea{
     padding: 20px;
     border: 2px solid #00eaf7;
     border-radius: 8px;
-    background-color: #000000;
+    background-color: #99c9d5e4;
     box-shadow: #00eaf7;
+    text-emphasis-color:inherit;
 }
 #resumeOutput h2{
-    color: #00eaf7;
+    color: #0015f7;
 
 }
 .btn {
@@ -121,5 +122,8 @@ input,textarea{
     color: #000;
     font-weight: bold;
   }
+
+
+
 
 
